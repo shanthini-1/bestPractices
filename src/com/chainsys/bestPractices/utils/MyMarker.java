@@ -1,5 +1,10 @@
 package com.chainsys.bestPractices.utils;
 
-public interface MyMarker {
+public class MyMarker {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
 
 }

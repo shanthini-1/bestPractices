@@ -1,14 +1,17 @@
 package com.chainsys.bestPractices.coupled;
 
 public class SteelWheel {
+    
 	public String location;
-	public void rotate()
-	{
-		System.out.println("Steel Wheel rotating");
+	
+	public void rotate() {
+		System.out.println("Steel rotating");
+		
 	}
-	public void stopRotation()
-	{
-		System.out.println("Steel Wheel stopped");
+	
+	public void stopRotate() {
+		System.out.println("Steel rotating stopped");
+		
 	}
 
 }

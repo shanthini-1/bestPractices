@@ -1,12 +1,14 @@
 package com.chainsys.bestPractices.coupled;
 
 public class WoodenWheel {
-	public void rotate()
-	{
-		System.out.println("Wooden Wheel rotating");
+
+	public void rotate() {
+		System.out.println("Steel wheel rotating");
+		
 	}
-	public void stopRotation()
-	{
-		System.out.println("Wooden Wheel stopped");
+	
+	public void stopRotate() {
+		System.out.println("Steel rotating stopped");
+		
 	}
 }

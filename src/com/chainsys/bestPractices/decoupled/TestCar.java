@@ -5,7 +5,7 @@ public class TestCar {
 	public static void main(String[] args) {
 		
 		PetrolEngine pe=new PetrolEngine();
-		SteelWheel[] sWheels=new SteelWheel[4];
+			SteelWheel[] sWheels=new SteelWheel[4];
 		sWheels[0]=new SteelWheel();
 		sWheels[0].location="front left";
 		sWheels[1]=new SteelWheel();
